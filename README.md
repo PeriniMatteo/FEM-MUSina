@@ -33,7 +33,7 @@ comprendono:
 
 - [scheda Arduino](https://store.arduino.cc/product/A000066)
 - [shield (autocostruito)](https://github.com/musefablab/FEM-MUSina/tree/master/schematics/pcb)
-- [motor shield Arduino](https://www.arduino.cc/en/Main/ArduinoMotorShieldR3))
+- [motor shield Arduino](https://www.arduino.cc/en/Main/ArduinoMotorShieldR3)
 - componenti elettronici necessari per il circuito Arduino documentati
 nella cartella [DATASHEET](https://github.com/musefablab/FEM-MUSina/tree/master/datasheet)
 - switch di fine corsa
