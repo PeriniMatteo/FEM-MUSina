@@ -67,7 +67,7 @@ Assemblare le parti meccaniche tornite e stampate inserendo il tutto nel
 case dell'irrigatore completo dei supporti e dei componenti di fissaggio
 come mostrato dalle immagini dei particolari nelle cartelle
 [DRAWING](https://github.com/musefablab/FEM-MUSina/tree/master/drawings),
-[IMAGES]((https://github.com/musefablab/FEM-MUSina/tree/master/images),
+[IMAGES](https://github.com/musefablab/FEM-MUSina/tree/master/images),
 e [PICTURES](https://github.com/musefablab/FEM-MUSina/tree/master/pictures).
 Realizzare lo [shield](https://github.com/musefablab/FEM-MUSina/tree/master/schematics/pcb)
 costituito dal [multiplexer](https://github.com/musefablab/FEM-MUSina/blob/master/datasheet/74HC4051.pdf)
